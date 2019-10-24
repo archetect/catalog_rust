@@ -1,0 +1,8 @@
+---
+entries:
+  - archetype:
+      description: Rust CLI
+      source: git@github.com:archetect/archetype-rust-cli.git
+  - archetype:
+      description: Rust CLI Workspace
+      source: git@github.com:archetect/archetype-rust-cli-workspace.git 
